@@ -8,7 +8,7 @@ Manjaro is a free and open-source Linux distribution based on the Arch Linux ope
   you can find Software from `add/remover software` which is software store for Manjaro. In case if any software is missing in store then you can find then is. `AUR Arch User Repository`. Which has lot's of collections. 
   `yay` is the one of the coolest stuff for installing software form `AUR`
   
-  for root user you need to write `sudo`` whis means super user do` and `pacman` `which means package manager` isn't cool stuff? and then `-Syu` for update curent system and then download and install a software.
+  for root user you need to write `sudo whis means super user do` and `pacman which means package manager` isn't cool stuff? and then `-Syu` for update curent system and then download and install a software.
   
   ### For install GCC lattest Compiler on you machine use
     sudo pacman -Syu gcc
