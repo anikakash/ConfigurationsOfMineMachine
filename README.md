@@ -18,4 +18,5 @@ This will install GCC compiler for you. and then check  gcc version use his comm
 usign yay you install any software from `aur` and it's pretty simple and handey commadn. for use `yay` first you need to install and setup this on your machine.
 [Here is the YAY Offile repositor](https://github.com/Jguer/yay) 
 don't worry you not need to viste this for setup yay one your machine. Just copy the command and then past it on your teminal.
-```pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si```
+  
+    pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
