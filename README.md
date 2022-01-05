@@ -20,5 +20,6 @@ usign yay you install any software from `aur` and it's pretty simple and handey 
 don't worry you not need to viste this for setup yay one your machine. Just copy the command and then past it on your teminal. if your machine have git. Other wise you need to install first git on you machine.
       
     sudo pacman -Syu git
-      
+After setup git you need to install `base-devel` Don't worry just copy the below commadn it will install `base-devel` and `yay` also at a time.
+
     pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
