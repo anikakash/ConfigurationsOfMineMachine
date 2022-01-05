@@ -14,9 +14,11 @@ Manjaro is a free and open-source Linux distribution based on the Arch Linux ope
     sudo pacman -Syu gcc
 This will install GCC compiler for you. and then check  gcc version use his commad on your terminal `gcc --version` .
 
-# YAY is the one greatest thing in arch 
+# YAY is the one of the greatest thing in arch 
 usign yay you install any software from `aur` and it's pretty simple and handey commadn. for use `yay` first you need to install and setup this on your machine.
 [Here is the YAY Offile repositor](https://github.com/Jguer/yay) 
-don't worry you not need to viste this for setup yay one your machine. Just copy the command and then past it on your teminal.
-  
+don't worry you not need to viste this for setup yay one your machine. Just copy the command and then past it on your teminal. if your machine have git. Other wise you need to install first git on you machine.
+      
+    sudo pacman -Syu git
+      
     pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
