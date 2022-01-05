@@ -11,7 +11,7 @@ Manjaro is a free and open-source Linux distribution based on the Arch Linux ope
   for root user you need to write `sudo`` whis means super user do` and `pacman` `which means package manager` isn't cool stuff? and then `-Syu` for update curent system and then download and install a software.
   
   ### For install GCC lattest Compiler on you machine use
-    ```sh
+    ```
     sudo pacman -Syu gcc
     ```
-
+This will install GCC compiler for you. and then check  gcc version use his commad on your terminal `gcc --version` .
