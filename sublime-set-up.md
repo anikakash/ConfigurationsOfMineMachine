@@ -77,3 +77,13 @@ int main(){
 8 . press `ctrl + shift + B` and a pop up will bring your sublime click one which has `-Run` part. `WOW` See you can successfully Generate your output.
 
 9 . Now whenever you need to compile your code just click `ctrl + B` and your will complie and generate output corresponding your input.
+
+# Sublime Code Formatter
+
+when i write code it is not easy to maintan a good formating style all the time. So i use `SublimeAStyleFormatter` extension for formate my source code.
+## Installation
+1. Bring up the Command Palette (Ctrl+Shift+P on Windows and Linux. ⌘+⇧+P on OS X).
+2. Type “Install” and select “Package Control: Install Package”.
+3. Select “SublimeAStyleFormatter” from list.
+
+after successfully install now write some code and then click `Ctrl + Alt + f`
