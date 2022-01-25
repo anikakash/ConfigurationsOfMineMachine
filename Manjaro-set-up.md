@@ -23,3 +23,16 @@ don't worry you not need to viste this for setup yay one your machine. Just copy
 After setup git you need to install `base-devel` Don't worry just copy the below commadn it will install `base-devel` and `yay` also at a time.
 
     pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+    
+# for use AUR first you should enable AUR Support.
+![image](https://user-images.githubusercontent.com/42891236/151033788-c8a3bdd3-a902-4dab-be4a-ef85bbc7d79e.png)
+
+for this open `Add/Remover Software` click menu [3 bar ] and go to `Preference -> Third Party`  and then enable aur support.
+   
+# Install Google Chrome
+    yay -Syu google-chrome
+
+# Install Sublime 
+    yay -Syu sublime-text-4
+
+i will add more ...........
