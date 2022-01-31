@@ -36,4 +36,5 @@ for this open `Add/Remover Software` click menu [3 bar ] and go to `Preference -
     yay -Syu sublime-text-4
 
 You can setup your sublime for `Competative Programming` [see here](https://github.com/anikakash/Configurations-Of-Mine-Machine/blob/main/sublime-set-up.md)
+
 i will add more ...........
