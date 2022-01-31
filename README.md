@@ -7,3 +7,4 @@
 
 1. [My Manjaro Linux Configuration's](https://github.com/anikakash/Configurations-Of-Mine-Machine/blob/main/Manjaro-set-up.md)
 2. [Sublime Setup For Sport's Programming](https://github.com/anikakash/Configurations-Of-Mine-Machine/blob/main/sublime-set-up.md)
+3. [linux Command Cheat Sheet](https://github.com/anikakash/Configurations-Of-Mine-Machine/blob/main/linux-command-cheat-sheet.md)
