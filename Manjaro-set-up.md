@@ -37,4 +37,7 @@ for this open `Add/Remover Software` click menu [3 bar ] and go to `Preference -
 
 You can setup your sublime for `Competative Programming` [see here](https://github.com/anikakash/Configurations-Of-Mine-Machine/blob/main/sublime-set-up.md)
 
+# Install XAMPP for DataBase or Loca Host: 
+[see this](https://youtu.be/R5CUn5wGQGg)
+
 i will add more ...........
