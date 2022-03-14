@@ -42,6 +42,6 @@ You can setup your sublime for `Competative Programming` [see here](https://gith
 
 # Install Hard Disk Sentinel 
 this software is used for checking up hard disk or SSD health
-    yay -Syu hdsentinel
+    ```yay -Syu hdsentinel```
 
 i will add more ...........
