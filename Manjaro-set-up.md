@@ -40,4 +40,8 @@ You can setup your sublime for `Competative Programming` [see here](https://gith
 # Install XAMPP for DataBase or Loca Host: 
 [see this](https://youtu.be/R5CUn5wGQGg)
 
+# Install Hard Disk Sentinel 
+this software is used for checking up hard disk or SSD health
+    yay -Syu hdsentinel
+
 i will add more ...........
